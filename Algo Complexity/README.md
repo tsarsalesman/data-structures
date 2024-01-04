@@ -1,2 +1,2 @@
-# Lab-5-Algorithm-Complexity
-https://cognlp.net/sven/201/labs/05/
+# Algorithm Complexity
+Using runtime theory, taking a look at how effective bubblesort and insertion sort are in comparison.
