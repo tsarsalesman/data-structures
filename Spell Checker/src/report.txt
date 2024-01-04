@@ -1,0 +1,18 @@
+LORED - Older
+CKONK - Knock
+SLOFIS - Fossil
+ECCTAN - Accent
+
+odeknfoian - one of a kind
+
+I did the extra credit and as running the main method shows,
+the sorting based method is significantly slower at finding
+the jumbled word. With that there is much more in involved. I have
+to sort every individual string, as well as now resort the dict file
+so it's in lexicographic order and can then be searched through with
+indexOf. Where instead the recursive anagram has an easier task of
+creating every permutation and then searching for each one. Although,
+both are sufficient in what they do and at least it's not an insane
+difference. Recursive took 38 ms and had 38,043 comparisons on one run and
+Sorting took 2,482 ms and made 67,988,436 comparisons.
+
