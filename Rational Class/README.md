@@ -1,2 +1,2 @@
-# Rational-Class
-A Rational number ADT for Java.
+# Rational Class
+A Rational number abstract data type made for Java, i.e. 1/2.
